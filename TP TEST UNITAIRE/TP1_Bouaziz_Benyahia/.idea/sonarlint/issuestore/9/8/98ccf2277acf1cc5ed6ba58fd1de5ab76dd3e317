@@ -1,0 +1,15 @@
+
+P
+java:S2209"5Change this instance-reference to a static reference.(‚Η™ώÿÿÿÿ
+L
+java:S2440"1Remove this instantiation of "MatrixMathematics".(‚Η™ώÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(³Ηϊ”ύÿÿÿÿ
+L
+java:S2440"1Remove this instantiation of "MatrixMathematics".(³Ηϊ”ύÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(βο¦‹ωÿÿÿÿ
+L
+java:S2440"1Remove this instantiation of "MatrixMathematics".(βο¦‹ωÿÿÿÿ
+H
+java:S1128	"-Remove this unused import 'org.junit.Assert'.(›λ‡ϊÿÿÿÿ
